@@ -10,10 +10,13 @@ My name is Jakub and I am 21 years old. I work as an IT technician every day. Be
 - Management panel for QEMU/VM running on Proxmox with payment system
 - TeamSpeak3 bots for administrators (full server logs, banning, kicking, user group management)
 - Many small projects
+
 ✅ C#
 - Basic programs 
+
 ✅ Python
 - Automation tasks (preparing computer for first use, checking and testing HW)
 - Test scripts
+
 ✅ Javascript
 - Discord BOT (based on discord.js)
