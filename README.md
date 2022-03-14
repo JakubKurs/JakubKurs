@@ -14,11 +14,5 @@ My name is Jakub and I am 21 years old. I work as an IT technician every day. Be
 - FiveM vibes <3
 
 ✅ C#
-- Basic programs 
-
 ✅ Python
-- Automation tasks (preparing computer for first use, checking and testing HW)
-- Test scripts
-
 ✅ Javascript
-- Discord BOT (based on discord.js)
