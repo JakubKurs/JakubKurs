@@ -14,10 +14,3 @@ My name is Jakub and I am 23 years old. I work as an IT technician every day. Be
 - ✅ C#
 
 - ✅ MySQL
-
-### 💎 Done projects
-https://ekw.expert
-- Backend, full integration with third party client application and API for external users.
-
-https://ekw.nowoczesnyposrednik.pl
-- Backend, full integration with third party client application and API for external users.
